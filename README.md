@@ -1,3 +1,3 @@
-# WIP
+# WE ARE UNDERGOING A MASSIVE BRANDING REVAMP! WATCH THIS SPACE
 
-Hi - I'm currently battling with setting up a monorepo to reuse hooks across multiple react native projects! I'll update this once I've finished.
+Hi! If you're looking to build a mobile app or your data science platform, send me an email via kevin@coffeedrivendevelopment.co.nz and I'll get back to you the soonest I can!

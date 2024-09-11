@@ -4,18 +4,18 @@
 
 ## 🚀 My Experience:
 
-- 💻 React Native: I specialise in building cross-platform mobile apps with React Native. From ideation to deployment, I've got you covered.
-- ⚛️ React: Building responsive, user-friendly web applications with React is my jam. Let's create something amazing together!
-- 📱 Android: I have a knack for crafting exceptional Android apps, whether it's a sleek user interface or a robust back end.
-- 🐍 Python: Python is my go-to language for solving complex problems and automating tasks. I'm your Python pro!
-- 🤖 Machine Learning: I love diving into data and creating intelligent algorithms. If you need help with ML projects, I'm your ally!
+- 💻 React Native: I've worked on high-profile projects such as Z, Caltex, MOH's COVID Tracer App, My Vodafone, etc.
+- ⚛️ React: I've worked on multiple react websites such as LOMA Search & Watercare NZ.
+- 📱 Android: I'm a former Google certified Android developer.
+- 🐍 Python: I've worked across different domains from computer vision using YOLO, to text generation using Flan-T5.
+- 🤖 Machine Learning: I love diving into data and creating intelligent algorithms.
 
 ## 🔧 Why Choose Me:
 
 - I'm dedicated to delivering high-quality work on time and within budget.
 - I'm a great communicator, and I love collaborating to turn your ideas into reality.
 - I'm constantly learning and adapting to new technologies to stay at the forefront of the industry.
-- I'm passionate about what I do, and your project's success is my top priority.
+- I'm passionate about what I do.
 
 Let's team up to bring your projects to life!
 

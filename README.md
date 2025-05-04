@@ -1,6 +1,6 @@
 ![React Native Auckland Meetup 2021](https://coffeedrivendevelopment.co.nz/static/media/HeaderImage.b279754e761511df9975.png)
 
-👋 Hi there! I'm Kevin, your front-end specialist from New Zealand!
+👋 Kia ora! I'm Kevin! A software engineer and data scientist from New Zealand!
 
 ## 🚀 My Experience:
 

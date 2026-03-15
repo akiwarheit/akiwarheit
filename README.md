@@ -8,16 +8,14 @@ Kia ora! I'm Kevin! A software engineer and data scientist from New Zealand! �
 - ⚛️ React: I've worked on multiple react websites such as Watercare NZ & DDRE Global.
 - 📱 Android: I'm a former Google certified Android developer.
 - 🐍 Python: I've worked across different domains from computer vision using YOLO, to text generation using Flan-T5.
-- 🤖 Machine Learning: I love diving into data and creating intelligent algorithms.
+- 🤖 Machine Learning: Data Scientist, University of Michigan - Master of Applied Data Science 2024
 
 ## 🔧 Why Choose Me:
 
 - I'm dedicated to delivering high-quality work on time and within budget.
-- I'm a great communicator, and I love collaborating to turn ideas into reality.
-- I'm constantly learning and adapting to new technologies to stay at the forefront of the industry.
+- I'm a great communicator and love collaborating.
+- I'm constantly learning and adapting to new technologies to stay up-to-speed with the industry.
 - I'm passionate about what I do.
-
-Let's team up to bring your projects to life!
 
 [Feel free to reach out](mailto:kevin@appz4u.co.nz), and let's start a conversation. 🚀📊📱
 

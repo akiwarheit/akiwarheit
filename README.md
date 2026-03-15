@@ -6,7 +6,7 @@ Kia ora! I'm Kevin! A software engineer and data scientist from New Zealand! �
 
 - 💻 React Native: I've worked on high-profile projects such as Z, Caltex, MOH's COVID Tracer App, Rova, My Vodafone, etc.
 - ⚛️ React: I've worked on multiple react websites such as Watercare NZ & DDRE Global.
-- 📱 Android: I'm a former Google certified Android developer.
+- 📱 Android: I'm a former Google certified Android developer, mobile app dev specialty - University of San Jose-Recoletos 2012
 - 🐍 Python: I've worked across different domains from computer vision using YOLO, to text generation using Flan-T5.
 - 🤖 Machine Learning: Data Scientist, University of Michigan - Master of Applied Data Science 2024
 

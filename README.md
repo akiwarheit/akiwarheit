@@ -20,6 +20,8 @@ Software engineer and data scientist based in New Zealand. I mostly work across 
 
 [Get in touch](mailto:kevin@appz4u.co.nz) if you fancy a chat.
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akiwarheit&layout=compact)
+![GitHub Stats](https://github-stats-extended.vercel.app/api/?username=akiwarheit&hide_border=true)
+
+![Most Used Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=akiwarheit&layout=compact&hide_border=true)
 
 [Coffee Driven Development](https://coffeedrivendevelopment.co.nz)
